@@ -1,4 +1,4 @@
-#!/usr/bin/python
+Ko#!/usr/bin/python
 # coding=utf-8
 # pashakun.com
 
